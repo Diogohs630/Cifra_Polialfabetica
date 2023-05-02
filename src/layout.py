@@ -1,8 +1,8 @@
-from tkinter import *
-import main
-from PIL import Image, ImageTk
-import os
+# Importando as bibliotecas
+from tkinter import * # Biblioteca gráfica
+import main # Projeto Principal
 
+# Cria as funções de chamada
 def cifrar_mensagem():
     mensagem = mensagem_entry.get()
     chave = chave_entry.get()

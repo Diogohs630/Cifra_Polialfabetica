@@ -9,7 +9,7 @@ Alunos: Diogo Henrique, Augusto Lago, Luiz Ricardo e Pedro Elias - COMP 3
 	- Possuir um editor de texto (pode ser VSCode, PyCharm ou outro de sua escolha)
 	- Possuir o instalador de pacotes pip (caso por padrão o python não tenha instalado o tkinter, será necessário rodar o comando: pip install tkinter no terminal)
 	
-##Etapa 2:
+## Etapa 2:
 	- Abrir a pasta do projeto no seu editor de código e verificar se todos os arquivos estão Ok. Caso esteja usando o PyCharm você pode apertar o atalho "SHIT+F10" para rodar o programa.
 	- se tiver usando outro editor, por exemplo o VSCode:
 		- Abrir pasta do projeto e abrir um novo terminal:

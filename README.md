@@ -1,2 +1,5 @@
-# Cifra_Polialfabetica
-Trabalho 2 - AED 3 - Criptografia
+# Trabalho 2 - AED 3 
+Alunos: Diogo Henrique, Augusto Lago, Luiz Ricardo e Pedro Elias - COMP 3
+
+## Tema: Criptografia polialfabética
+

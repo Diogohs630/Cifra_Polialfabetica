@@ -2,7 +2,7 @@
 Alunos: Diogo Henrique, Augusto Lago, Luiz Ricardo e Pedro Elias - COMP 3
 
 ## Tema: Criptografia polialfabética
-### DEscrição do projeto: 
+### Descrição do projeto: 
 O projeto foi desenvolvido em python 3.10, e usou como cifra para criptografia polialfabética, a cifra de vigenere.
 	É uma técnica de criptografia por substituição polialfabética que utiliza uma série de cifras de César diferentes, baseadas nas letras de uma palavra-chave.
 	A cifragem é realizada com o uso de uma tabela de alfabetos, denominada tabula recta, ou “quadrado de Vigenère”, que consiste no alfabeto escrito 26 vezes em linhas diferentes, cada um deslocado ciclicamente para a esquerda comparado com o alfabeto anterior, de forma a corresponder às 26 cifras de César possíveis. 

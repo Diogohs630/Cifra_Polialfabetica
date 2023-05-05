@@ -1,3 +1,4 @@
+# funcao pra cifrar a frase
 def cifra_vigenere(mensagem, chave):
     alfabeto = "abcdefghijklmnopqrstuvwxyz"
     tabela_de_vigenere = []
@@ -23,6 +24,7 @@ def cifra_vigenere(mensagem, chave):
 
     return mensagem_cifrada
 
+# funcao pra decifrar a frase
 def decifrar_vigenere(palavra_cifrada, chave):
     palavra_cifrada = palavra_cifrada.lower()
     chave = chave.lower()
